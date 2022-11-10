@@ -18,10 +18,10 @@ a {
 }
 
 header img {
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     border-radius: 50%;
-    border: 5px solid green;
+    border: 0px solid black;
 }
 
 .center {
@@ -29,7 +29,7 @@ header img {
 }
 
 h1 {
-    color: #5BBE42;
+    color: white;
     height: 50px;
     text-align: center;
     font-size: 25px;
@@ -63,14 +63,14 @@ footer p {
     justify-content : center;
 }
   
-}
+
 
 nav a {
     font-size: 16px;
 }
 
 nav a:hover {
-    color: #5BBE42;
+    color: blue;
 }
 
 .contact-form input{
