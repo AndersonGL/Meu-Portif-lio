@@ -1,8 +1,7 @@
 body {
     color: white;
     background-color: black;
-    font-family:Arial, Helvetica, sans-serif,sans- 
-    seriflvetica;
+    font-family:Arial, Helvetica, sans-serif,sans-seriflvetica;
 }
 
 ul {
@@ -41,8 +40,8 @@ h2 {
 }
   
 footer img {
-    width: 40px;
-    height: 40px;
+    width: 70px;
+    height: 70px;
 }
 
 footer {
@@ -51,7 +50,7 @@ footer {
 }
 
 footer a {
-    margin: 12px;
+    margin: 30px;
     text-align: center;
 }
 
@@ -64,7 +63,7 @@ footer p {
     justify-content : center;
 }
   
-
+}
 
 nav a {
     font-size: 16px;
