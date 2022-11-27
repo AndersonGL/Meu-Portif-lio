@@ -13,6 +13,7 @@ ul {
     list-style-type:none ;
     align-items:0px;
     padding: 10px;
+    
 }
 
 a {
@@ -21,8 +22,8 @@ a {
 }
 
 header img {
-    width: 150px;
-    height: 150px;
+    width: 200px;
+    height: 200px;
     border-radius: 50%;
     border: 0px solid black;
     padding: 10px;
@@ -54,12 +55,13 @@ footer {
 }
 
 footer a {
-    margin: 30px;
+    margin: 12px;
     text-align: center;
 }
 
 footer p {
     margin-top: 0px;
+   
 }
 
 .container {
